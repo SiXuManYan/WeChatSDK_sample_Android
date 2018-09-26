@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_pref_title.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_pref_title.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_one.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_list_textcolor_one.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_style_one_btn_text.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_style_one_btn_text.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_style_two_btn_text.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_style_two_btn_text.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_two.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_list_textcolor_two.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_choice_text_color.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_choice_text_color.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_time.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_list_textcolor_time.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_actbtn_text.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_actbtn_text.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_pref_summary.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_pref_summary.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_hyper_text.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_hyper_text.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_title_btn_text.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_title_btn_text.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\mm_btn_text.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\color\\mm_btn_text.xml"
+    }
+]

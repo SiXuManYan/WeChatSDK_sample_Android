@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_catalog.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_catalog.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_title.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_title.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_info.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_info.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sendrequest_dialog.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\sendrequest_dialog.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_image.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_image.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_domainmail.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_content_domainmail.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_to_wx.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\send_to_wx.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout_special.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\alert_dialog_menu_list_layout_special.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_screen.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_screen.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_null.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_null.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_activity.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_activity.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\security_image.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\security_image.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_dialog_edittext.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_list_content.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_list_content.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_domainmaillist.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_content_domainmaillist.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_self_vuser.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_self_vuser.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webalert.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\webalert.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_button.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\image_button.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_from_wx.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\get_from_wx.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_widget_empty.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_widget_empty.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_choice.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_content_choice.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_checkbox.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_checkbox.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_submenu.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_submenu.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout_cancel.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\alert_dialog_menu_list_layout_cancel.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_child.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_child.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\alert_dialog_menu_list_layout.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_layout.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\alert_dialog_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_from_wx.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\show_from_wx.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_keyvalue.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_preference_content_keyvalue.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout_title.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\alert_dialog_menu_list_layout_title.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scan_qrcode_login.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\scan_qrcode_login.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entry.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\entry.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mm_example_ui.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\layout\\mm_example_ui.xml"
+    }
+]

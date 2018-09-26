@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\list_selector_background.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_right.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\mm_title_btn_right.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_back.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\mm_title_btn_back.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_btn.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\mm_checkbox_btn.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_edit.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\mm_edit.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_mini.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\mm_checkbox_mini.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\btn_style_one.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_one_item.xml",
+        "source": "F:\\OpenSource\\WeChatSDK_sample_Android\\app\\src\\main\\res\\drawable\\preference_one_item.xml"
+    }
+]
